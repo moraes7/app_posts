@@ -12,7 +12,7 @@ Posts App é um aplicativo Android desenvolvido em Kotlin que demonstra boas pr�
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Linguagem**: Kotlin
+- **Linguagem**: Java
 - **Min SDK**: 24 (Android 7.0)
 - **Target SDK**: 36 (Android 15)
 - **Build System**: Gradle 8.x com Kotlin DSL
