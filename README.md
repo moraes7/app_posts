@@ -4,7 +4,7 @@ Um aplicativo Android moderno que exibe uma lista de posts consumindo uma API RE
 
 ## 📋 Sobre o Projeto
 
-Posts App é um aplicativo Android desenvolvido em Kotlin que demonstra boas práticas de desenvolvimento mobile, incluindo:
+Posts App é um aplicativo Android desenvolvido em Java que demonstra boas práticas de desenvolvimento mobile, incluindo:
 - Consumo de APIs RESTful com Retrofit
 - View Binding para acesso seguro a views
 - Serialização/desserialização de JSON com Gson
@@ -15,7 +15,7 @@ Posts App é um aplicativo Android desenvolvido em Kotlin que demonstra boas pr�
 - **Linguagem**: Java
 - **Min SDK**: 24 (Android 7.0)
 - **Target SDK**: 36 (Android 15)
-- **Build System**: Gradle 8.x com Kotlin DSL
+- **Build System**: Gradle 8.x
 - **Bibliotecas Principais**:
   - [AndroidX AppCompat](https://developer.android.com/jetpack/androidx/releases/appcompat)
   - [Material Design 3](https://material.io/components)
