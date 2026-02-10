@@ -86,7 +86,7 @@ app/
 
 ## 🎨 Interface do Usuário
 
-![app-posts.gif](../../../../Downloads/app-posts.gif)
+![Image](https://github.com/user-attachments/assets/5a16e7b2-a869-4d9b-8e03-00939ab5f355)
 
 ## 📄 Licença
 
